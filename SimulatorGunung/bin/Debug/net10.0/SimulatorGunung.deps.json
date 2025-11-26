@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SimulatorGunung/1.0.0": {
+        "runtime": {
+          "SimulatorGunung.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimulatorGunung/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
